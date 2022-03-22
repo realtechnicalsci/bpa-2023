@@ -112,3 +112,7 @@ body {
 .col-color-1 {
   background-color: #0071e3 !important;
 }
+.grid-card {
+  border-radius: 40px !important;
+  height: 800px !important;
+}
