@@ -79,3 +79,6 @@ body {
 .navbar-brand {
   font-weight: 500;
 }
+.home-bg {
+  height: 100% !important;
+}
