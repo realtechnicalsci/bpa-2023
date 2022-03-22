@@ -79,7 +79,7 @@ body {
 .navbar-brand {
   font-weight: 500;
 }
-.home-bg {
+.home-bg-1 {
   /* The image used */
   background-image: url("homepage-background.png") !important;
 
