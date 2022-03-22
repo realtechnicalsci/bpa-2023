@@ -79,7 +79,7 @@ body {
 .navbar-brand {
   font-weight: 500;
 }
-.home-bg-1 {
+body {
   /* The image used */
   background-image: url("homepage-background.png") !important;
 
@@ -90,7 +90,4 @@ body {
   background-position: center !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
-}
-body, html {
-  height: 100% !important;
 }
