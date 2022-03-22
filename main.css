@@ -111,6 +111,11 @@ body {
   font-weight: 600 !important;
   font-size: 120px !important;
 }
+.welcome-text-text {
+  text-align: center !important;
+  font-weight: 600 !important;
+  font-size: 120px !important;
+}
 .grid-wrap {
   height: 500px !important;
   padding: 12px !important;
