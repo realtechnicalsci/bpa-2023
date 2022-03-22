@@ -81,7 +81,7 @@ body {
 }
 .home-bg {
   /* The image used */
-  background-image: url("circle-background.svg");
+  background-image: url("homepage-background.png");
 
   /* Full height */
   height: 100%;
