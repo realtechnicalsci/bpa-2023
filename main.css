@@ -114,9 +114,11 @@ body {
 }
 .grid-wrap {
   height: 800px !important;
+  padding: 12px !important;
 }
 .grid-card {
   border-radius: 40px !important;
   background-color: #1e1f21 !important;
-  margin: 12px !important;
+  height: 700px !important;
+  
 }
