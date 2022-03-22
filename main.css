@@ -91,3 +91,6 @@ body {
   background-repeat: no-repeat !important;
   background-size: cover !important;
 }
+body, html {
+  height: 100% !important;
+}
