@@ -115,6 +115,7 @@ body {
   text-align: center !important;
   font-weight: 600 !important;
   font-size: 120px !important;
+  color: var(--white);
 }
 .grid-wrap {
   height: 500px !important;
