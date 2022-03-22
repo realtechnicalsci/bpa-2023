@@ -108,6 +108,7 @@ body {
 .welcome-text {
   text-align: center !important;
   padding: 4rem !important;
+  font-weight: 600 !important;
 }
 .grid-wrap {
   height: 500px !important;
