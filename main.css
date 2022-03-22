@@ -93,6 +93,9 @@ body {
 }
 .welcome-message {
   width: 100vh !important;
-  height: 200px !important`;
+  height: 200px !important;
   background-color: var(--black);
+}
+#col-welcome {
+  background-color: var(--black) !important;
 }
