@@ -101,3 +101,7 @@ body {
   border-radius: 30px !important;
   height: 400px !important;
 }
+.share-text {
+  text-align: center !important;
+  padding: 2rem !important;
+}
