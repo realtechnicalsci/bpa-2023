@@ -80,5 +80,14 @@ body {
   font-weight: 500;
 }
 .home-bg {
-  width: 100% !important;
+  /* The image used */
+  background-image: url("circle-background.svg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
