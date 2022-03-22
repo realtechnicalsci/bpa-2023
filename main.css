@@ -115,4 +115,5 @@ body {
 .grid-card {
   border-radius: 40px !important;
   height: 800px !important;
+  background-color: #1e1f21 !important;
 }
