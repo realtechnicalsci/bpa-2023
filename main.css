@@ -98,6 +98,6 @@ body {
 }
 #col-welcome {
   background-color: var(--white) !important;
-  border-radius: 100px !important;
+  border-radius: 30px !important;
   height: 400px !important;
 }
