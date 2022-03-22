@@ -97,7 +97,7 @@ body {
   background-color: var(--black);
 }
 #col-welcome {
-  background-color: var(--white) !important;
+  background-color: transparent !important;
   border-radius: 30px !important;
   height: 400px !important;
 }
@@ -109,6 +109,7 @@ body {
   text-align: center !important;
   padding: 4rem !important;
   font-weight: 600 !important;
+  font-size: 120px !important;
 }
 .grid-wrap {
   height: 500px !important;
